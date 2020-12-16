@@ -1,0 +1,13 @@
+var json_Balai_Pengobatan_Warga_11 = {
+"type": "FeatureCollection",
+"name": "Balai_Pengobatan_Warga_11",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": "here:pds:place:360qqwm8-1ea8aaf4aaa14b4fae78bae5940acf95", "origin_id": "-2", "title": "Posluhdes Desa Sutopati", "label": "Posluhdes Desa Sutopati, Magelang Kabupaten 56563, Indonesia", "distance": 5576.0, "categories": "800-8000-0155", "Keterangan": "Balai Pengobatan Warga" }, "geometry": { "type": "Point", "coordinates": [ 110.06481, -7.45265 ] } },
+{ "type": "Feature", "properties": { "id": "here:pds:place:360qqwmx-e78d81e51da3498fa996f57167a1a619", "origin_id": "-9", "title": "Poskesdes Pkd Dahlia", "label": "Poskesdes Pkd Dahlia, Magelang Kabupaten 56593, Indonesia", "distance": 1455.0, "categories": "800-8000-0158", "Keterangan": "Balai Pengobatan Warga" }, "geometry": { "type": "Point", "coordinates": [ 110.38114, -7.44076 ] } },
+{ "type": "Feature", "properties": { "id": "here:pds:place:360qqwm6-311f5f545a9441ac9ebe26aebc446a20", "origin_id": "-13", "title": "Puskesdes", "label": "Puskesdes, Magelang Kabupaten 56564, Indonesia", "distance": 1837.0, "categories": "800-8000-0158", "Keterangan": "Balai Pengobatan Warga" }, "geometry": { "type": "Point", "coordinates": [ 110.15926, -7.48121 ] } },
+{ "type": "Feature", "properties": { "id": "here:pds:place:360qqwm5-10bfd6c0a6ed40f6b2fe1889aee65f5f", "origin_id": "-16", "title": "Poliklinik Kesehatan Desa Jogomulyo", "label": "Poliklinik Kesehatan Desa Jogomulyo, Magelang Kabupaten 56561, Indonesia", "distance": 2632.0, "categories": "800-8000-0158", "Keterangan": "Balai Pengobatan Warga" }, "geometry": { "type": "Point", "coordinates": [ 110.17265, -7.52923 ] } },
+{ "type": "Feature", "properties": { "id": "here:pds:place:360qqwmx-e78d81e51da3498fa996f57167a1a619", "origin_id": "-20", "title": "Poskesdes Pkd Dahlia", "label": "Poskesdes Pkd Dahlia, Magelang Kabupaten 56593, Indonesia", "distance": 5024.0, "categories": "800-8000-0158", "Keterangan": "Balai Pengobatan Warga" }, "geometry": { "type": "Point", "coordinates": [ 110.38114, -7.44076 ] } },
+{ "type": "Feature", "properties": { "id": "here:pds:place:360qqwkd-448d967d90b24d0db50a1f6d8787d4d8", "origin_id": "-27", "title": "Pos Kesehatan Desa Ngadiharjo", "label": "Pos Kesehatan Desa Ngadiharjo, Magelang Kabupaten 56553, Indonesia", "distance": 2263.0, "categories": "800-8000-0155", "Keterangan": "Balai Pengobatan Warga" }, "geometry": { "type": "Point", "coordinates": [ 110.16978, -7.61631 ] } }
+]
+}
